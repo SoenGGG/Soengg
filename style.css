@@ -1,0 +1,356 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background: whitesmoke;
+    height: 42px;
+    width: 100%;
+    padding: 20px 20px;
+    text-align: center;
+    position: fixed;
+   
+}
+img{
+    height: 21px;
+    width: 21px;
+    padding-right: 32px;
+}
+ul li{
+    display: inline-block;
+    padding: 0px 18px;
+}
+li a{
+    color: grey;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+li a:hover{
+    color: hotpink;
+    border: 1px solid hotpink;
+    background: fixed;
+    padding: 4px 14px;
+    border-radius: 18px;
+}
+#search{
+    padding-left: 100px;
+}
+#menu{
+    padding: 0px 20px;
+}
+/*----------------------------------------------*/
+
+.bodyweb{
+    background-color: black;
+    background-image: url('img/iPhone15proo.jfif');
+    text-align: center;
+    height: 740px;
+    background-position:center;
+    background-size:inherit;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    padding-top: 120px;
+    color: grey;
+    font-size: 42px;
+    font-weight: 100;
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+    padding: 2px 0px;
+    color: grey;
+    font-size: 28px;
+    font-weight: 100;
+    cursor: pointer;
+}
+h3{
+    text-align: center;
+    padding: 3px 0px;
+    color: grey;
+    font-size: 20px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.iPhone15pro li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 32px 22px;
+}
+.iPhone15pro a{
+    color: rgb(69, 69, 255);
+    font-size: 24px;
+    letter-spacing: 0.4px;
+    transition: all 0.2s;
+}
+.iPhone15pro a:hover{
+    padding-left: 0.1px;
+    border: none;
+    color: rgb(69, 69, 255);
+    text-decoration:underline 1.4px;
+    text-decoration:rgb(from color r g b);
+}
+/*-----------------------------------------*/
+
+.bodyweb2{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.iPhone14promax{
+    background: black;
+    background-image: url('img/Iphone14promax.jpg');
+    height: 600px;
+    padding: 0%;
+    background-repeat: no-repeat;
+    background-size:inherit;
+    background-position:center;
+}
+.bodyweb2 h1{
+    text-align: center;
+    padding-top: 32px;
+    color: grey;
+    font-size: 42px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.bodyweb2 h2{
+    text-align: center;
+    padding: 2px 0px;
+    color: grey;
+    font-size: 28px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.bodyweb2 h3{
+    text-align: center;
+    padding: 3px 0px;
+    color: grey;
+    font-size: 20px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.bodyweb2 li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 32px 22px;
+}
+.bodyweb2 a{
+    color: rgb(69, 69, 255);
+    font-size: 24px;
+    letter-spacing: 0.4px;
+    transition: all 0.2s;
+}
+.bodyweb2 a:hover{
+    padding-left: 0.1px;
+    border: none;
+    color: rgb(69, 69, 255);
+    text-decoration:underline 1.4px;
+}
+/*___________________________________________*/
+.bodyweb3{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.iPadpro11{
+    background: white;
+    background-image: url('img/iPadpro11.jpg');
+    height: 720px;
+    padding: 0%;
+    background-repeat: no-repeat;
+    background-size:inherit;
+    background-position:center;
+}
+.bodyweb3 h1{
+    text-align: center;
+    padding-top: 32px;
+    color: grey;
+    font-size: 42px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.bodyweb3 h2{
+    text-align: center;
+    padding: 2px 0px;
+    color: grey;
+    font-size: 28px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.bodyweb3 h3{
+    text-align: center;
+    padding: 3px 0px;
+    color: grey;
+    font-size: 20px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.bodyweb3 li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 32px 22px;
+}
+.bodyweb3 li a{
+    color: rgb(69, 69, 255);
+    border: none;
+    font-size: 24px;
+    letter-spacing: 0.4px;
+    transition: all 0.2s;
+}
+.bodyweb3 li a:hover{
+    padding-left: 0.1px;
+    border: none;
+    color: rgb(69, 69, 255);
+    text-decoration:underline 1.4px;
+}
+li button{
+    background: fixed;
+    color: rgb(69, 69, 255);
+    border: 2px solid rgb(69, 69, 255);
+    padding: 3px 12px;
+    font-size: 24px;
+    font-weight: 100;
+    transition: 0.3s;
+}
+li button:hover{
+    color: gray;
+    border: 2px solid grey;
+    padding: 3px 15px;
+    font-weight: 300;
+}
+/*===================================================*/
+
+.bodyweb4{
+    background-color: whitesmoke;
+    text-align: center;
+}
+.Airpodspro{
+    background: white;
+    background-image: url('img/AirPodspro.jfif');
+    height: 1000px;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-size:inherit;
+    background-position:center;
+}
+.bodyweb4 h1{
+    text-align: center;
+    padding-top: 32px;
+    color: grey;
+    font-size: 42px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.bodyweb4 h2{
+    text-align: center;
+    padding: 2px 0px;
+    color: grey;
+    font-size: 28px;
+    font-weight: 100;
+    cursor: pointer;
+}
+.bodyweb4 li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 32px 22px;
+}
+.bodyweb4 a{
+    color: rgb(69, 69, 255);
+    font-size: 24px;
+    letter-spacing: 0.4px;
+    transition: all 0.2s;
+}
+.bodyweb4 a:hover{
+    padding-left: 0.1px;
+    border: none;
+    color: rgb(69, 69, 255);
+    text-decoration:underline 1.4px;
+}
+li button{
+    background: fixed;
+    color: rgb(69, 69, 255);
+    border: 2px solid rgb(69, 69, 255);
+    padding: 3px 12px;
+    font-size: 24px;
+    font-weight: 100;
+    transition: 0.3s;
+}
+li button:hover{
+    color: gray;
+    border: 2px solid grey;
+    padding: 3px 15px;
+    font-weight: 300;
+}
+/*=======================================*/
+.footer{
+    text-align: center;
+    padding: 25px 30px;
+    background: whitesmoke;
+    height: 35px;
+    border-top: 1px solid silver;
+}
+.footer h2{
+    display: inline-block;
+    font-size: 13px;
+    color: rgb(66, 66, 66);
+    padding: 0px 10px;
+    font-weight: 100;
+}
+.footer h1{
+    display: inline-block;
+    font-size: 13px;
+    color: rgb(66, 66, 66);
+    padding:0px 30px;
+    font-weight: 100;
+}
+.footer h3{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 100;
+    color: rgb(66, 66, 66);
+    padding: 0px 2px;
+}
+.footer a{
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 100;
+    color: rgb(66, 66, 66);
+    padding:0px 30px;
+    transition: all 0.3s;
+}
+.footer #pp:hover{
+    padding: 0px 11px;
+    text-decoration: underline rgb(69, 69, 255);
+    color: rgb(69, 69, 255);
+}
+.footer #tof:hover{
+    padding: 0px 11px;
+    text-decoration: underline rgb(69, 69, 255);
+    color: rgb(69, 69, 255);
+}
+.footer #lg:hover{
+    padding: 0px 11px;
+    text-decoration: underline rgb(69, 69, 255);
+    color: rgb(69, 69, 255);
+}
+.footer #sm:hover{
+    padding: 0px 11px;
+    text-decoration: underline rgb(69, 69, 255);
+    color: rgb(69, 69, 255);
+}
+.footer #snr:hover{
+    padding: 0px 11px;
+    text-decoration: underline rgb(69, 69, 255);
+    color: rgb(69, 69, 255);
+}
+.footer a:hover{
+    padding-left: 14px;
+    color: rgb(69, 69, 255);
+    font-weight: 400;
+}
+/*=======Resposive=======*/
